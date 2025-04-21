@@ -16,8 +16,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1mus&theme=midnight-purple&show_icons=true)
-
 [![codewars](https://www.codewars.com/users/akimdev/badges/large)](https://www.codewars.com/users/akimdev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1mus&theme=dark&show_icons=true&hide_border=true&count_private=true)
