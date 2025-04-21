@@ -20,7 +20,7 @@
 
 [![codewars](https://www.codewars.com/users/akimdev/badges/large)](https://www.codewars.com/users/akimdev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayka667&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayka667&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1mus&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1mus&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=ak1mus)
